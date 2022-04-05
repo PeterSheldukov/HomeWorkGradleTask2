@@ -1,0 +1,5 @@
+rootProject.name = 'HomeWorkGradleTask2'
+include 'Db'
+include 'Api'
+include 'Service'
+
